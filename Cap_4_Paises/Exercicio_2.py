@@ -5,7 +5,7 @@ import numpy as np
 
 # Importa o dataset
 dataset = np.loadtxt(
-    r'C:\Users\Rafael Bruno\Desktop\Rafael\Faculdade\Inatel\6º Periodo\C11\C11-Ciencia-de-dados-com-Python\Cap_4_Paises\paises.csv',
+    'paises.csv',
     delimiter=';',
     dtype=str
 )
