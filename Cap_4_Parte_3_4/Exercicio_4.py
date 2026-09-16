@@ -1,3 +1,4 @@
+cd..
 import numpy as np
 
 # 1. Importa o dataset
